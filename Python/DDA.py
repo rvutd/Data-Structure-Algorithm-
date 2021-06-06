@@ -63,24 +63,6 @@ print(X, Y)
 plt.plot(lst_x, lst_y)
 plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # import matplotlib.pyplot as plt
 
 # # Getting Data
